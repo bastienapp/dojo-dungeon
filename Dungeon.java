@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class DungeonTest {
+public class Dungeon {
 
 	// TODO
 }
